@@ -20,7 +20,7 @@
     "name": "dustpress-js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/devgeniem/dustpress-js.git"
+        "url": "https://github.com/wunderio/dustpress-js.git"
     },
     "scripts": {
         "build": "webpack -p",
