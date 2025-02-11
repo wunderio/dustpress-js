@@ -1,5 +1,5 @@
 {
-  "name": "devgeniem/dustpress-js",
+  "name": "wunderio/dustpress-js",
   "type": "wordpress-plugin",
   "license": "GPL-3.0",
   "description": "A DustPress plugin that provides a handy JavaScript library for using your DustPress Model methods on the front end.",
@@ -17,7 +17,7 @@
     }
   ],
   "require": {
-  	"devgeniem/dustpress": ">=1.25.0",
+  	"wunderio/dustpress": ">=1.25.0",
     "php": ">=7.0",
     "composer/installers": "^1||^2"
   },
